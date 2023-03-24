@@ -23,4 +23,4 @@ This simple pie chart breaksdown the amount of male users, female users, or unkn
 ## Summary
 The Citi Bike Sharing program is clearly a popular amenity in New York City. However, there is a large difference between the male and female users of the bikes. This knowledge of the data is necessary when determining if Bike Sharing is a logical choice to bring to Des Moines.
 
-[link to dashboard](https://public.tableau.com/views/NYC_Biki_Sharing/NYCBikeSharingDataAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[NYC Bike Sharing Story on Tableau Public](https://public.tableau.com/views/NYC_Biki_Sharing/NYCBikeSharingDataAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
